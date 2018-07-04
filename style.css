@@ -1,0 +1,15 @@
+       .box {
+           margin: auto;
+           padding: 20px;
+           background-color: #f8f8f8;
+           color: black;
+           font-family: Calibri;
+           width: 500px;
+           border-radius: 10px;
+           box-shadow: 5px 10px 10px #777777;
+       }  
+	   
+       h1 {
+           text-align: center;
+       }
+      
