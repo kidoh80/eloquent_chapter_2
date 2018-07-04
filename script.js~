@@ -61,3 +61,6 @@ for (let x = 0; x < size; x++) {
 	checkBoard += "\n";
 }	
 console.log(checkBoard);
+
+
+
