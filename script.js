@@ -23,7 +23,7 @@ for (let i = 1; i <= 100; i++) {
 console.log("");
 console.log("Chessboard");
 
-let size = 20;
+let size = 8;
 
 const makeOdd = function(size) {
 	let row = "";
